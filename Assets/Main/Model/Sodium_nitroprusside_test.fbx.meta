@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: e8ee33f343e9c524180c762291920362
+timeCreated: 1525156785
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base
+    100002: Beaker_02
+    100004: Both_hand_rig_final:L_Arm
+    100006: Both_hand_rig_final:L_figer_base
+    100008: Both_hand_rig_final:L_Hand
+    100010: Both_hand_rig_final:L_Hand 1
+    100012: Both_hand_rig_final:L_Hand_globel_Ctrl
+    100014: Both_hand_rig_final:L_Index_01
+    100016: Both_hand_rig_final:L_Index_02
+    100018: Both_hand_rig_final:L_Index_03
+    100020: Both_hand_rig_final:L_Index_04
+    100022: Both_hand_rig_final:L_Middle_01
+    100024: Both_hand_rig_final:L_Middle_02
+    100026: Both_hand_rig_final:L_Middle_03
+    100028: Both_hand_rig_final:L_Middle_04
+    100030: Both_hand_rig_final:L_Pinky_01
+    100032: Both_hand_rig_final:L_Pinky_02
+    100034: Both_hand_rig_final:L_Pinky_03
+    100036: Both_hand_rig_final:L_Pinky_04
+    100038: Both_hand_rig_final:L_Ring_01
+    100040: Both_hand_rig_final:L_Ring_02
+    100042: Both_hand_rig_final:L_Ring_03
+    100044: Both_hand_rig_final:L_Ring_04
+    100046: Both_hand_rig_final:L_Thumb_01
+    100048: Both_hand_rig_final:L_Thumb_02
+    100050: Both_hand_rig_final:L_Thumb_03
+    100052: Both_hand_rig_final:L_Thumb_04
+    100054: Both_hand_rig_final:Master_ctrl
+    100056: Both_hand_rig_final:R_Arm
+    100058: Both_hand_rig_final:R_figer_base
+    100060: Both_hand_rig_final:R_Hand
+    100062: Both_hand_rig_final:R_Hand 1
+    100064: Both_hand_rig_final:R_Hand_globel_Ctrl
+    100066: Both_hand_rig_final:R_Index_01
+    100068: Both_hand_rig_final:R_Index_02
+    100070: Both_hand_rig_final:R_Index_03
+    100072: Both_hand_rig_final:R_Index_04
+    100074: Both_hand_rig_final:R_Middle_01
+    100076: Both_hand_rig_final:R_Middle_02
+    100078: Both_hand_rig_final:R_Middle_03
+    100080: Both_hand_rig_final:R_Middle_04
+    100082: Both_hand_rig_final:R_Pinky_01
+    100084: Both_hand_rig_final:R_Pinky_02
+    100086: Both_hand_rig_final:R_Pinky_03
+    100088: Both_hand_rig_final:R_Pinky_04
+    100090: Both_hand_rig_final:R_Ring_01
+    100092: Both_hand_rig_final:R_Ring_02
+    100094: Both_hand_rig_final:R_Ring_03
+    100096: Both_hand_rig_final:R_Ring_04
+    100098: Both_hand_rig_final:R_Thumb_01
+    100100: Both_hand_rig_final:R_Thumb_02
+    100102: Both_hand_rig_final:R_Thumb_03
+    100104: Both_hand_rig_final:R_Thumb_04
+    100106: Bottle
+    100108: Cap
+    100110: Chemistry_Lab
+    100112: Dropper
+    100114: Dropper2
+    100116: Dropper_Solution
+    100118: Droppers
+    100120: Equipments
+    100122: Label1
+    100124: Liquid_Solution
+    100126: Sodium_extract
+    100128: //RootNode
+    100130: Testtube_01
+    100132: Testtube_02
+    100134: Testtube_Stand
+    100136: Testtube_Stand 1
+    100138: Testube_Stand
+    100140: Acetic_Acid
+    100142: Base 1
+    100144: Bottle1
+    100146: Cap 1
+    100148: Dropper1
+    100150: Lead_Acetate
+    100152: Liquid_Solution 1
+    100154: Sodium_Nitroprusside
+    400000: Base
+    400002: Beaker_02
+    400004: Both_hand_rig_final:L_Arm
+    400006: Both_hand_rig_final:L_figer_base
+    400008: Both_hand_rig_final:L_Hand
+    400010: Both_hand_rig_final:L_Hand 1
+    400012: Both_hand_rig_final:L_Hand_globel_Ctrl
+    400014: Both_hand_rig_final:L_Index_01
+    400016: Both_hand_rig_final:L_Index_02
+    400018: Both_hand_rig_final:L_Index_03
+    400020: Both_hand_rig_final:L_Index_04
+    400022: Both_hand_rig_final:L_Middle_01
+    400024: Both_hand_rig_final:L_Middle_02
+    400026: Both_hand_rig_final:L_Middle_03
+    400028: Both_hand_rig_final:L_Middle_04
+    400030: Both_hand_rig_final:L_Pinky_01
+    400032: Both_hand_rig_final:L_Pinky_02
+    400034: Both_hand_rig_final:L_Pinky_03
+    400036: Both_hand_rig_final:L_Pinky_04
+    400038: Both_hand_rig_final:L_Ring_01
+    400040: Both_hand_rig_final:L_Ring_02
+    400042: Both_hand_rig_final:L_Ring_03
+    400044: Both_hand_rig_final:L_Ring_04
+    400046: Both_hand_rig_final:L_Thumb_01
+    400048: Both_hand_rig_final:L_Thumb_02
+    400050: Both_hand_rig_final:L_Thumb_03
+    400052: Both_hand_rig_final:L_Thumb_04
+    400054: Both_hand_rig_final:Master_ctrl
+    400056: Both_hand_rig_final:R_Arm
+    400058: Both_hand_rig_final:R_figer_base
+    400060: Both_hand_rig_final:R_Hand
+    400062: Both_hand_rig_final:R_Hand 1
+    400064: Both_hand_rig_final:R_Hand_globel_Ctrl
+    400066: Both_hand_rig_final:R_Index_01
+    400068: Both_hand_rig_final:R_Index_02
+    400070: Both_hand_rig_final:R_Index_03
+    400072: Both_hand_rig_final:R_Index_04
+    400074: Both_hand_rig_final:R_Middle_01
+    400076: Both_hand_rig_final:R_Middle_02
+    400078: Both_hand_rig_final:R_Middle_03
+    400080: Both_hand_rig_final:R_Middle_04
+    400082: Both_hand_rig_final:R_Pinky_01
+    400084: Both_hand_rig_final:R_Pinky_02
+    400086: Both_hand_rig_final:R_Pinky_03
+    400088: Both_hand_rig_final:R_Pinky_04
+    400090: Both_hand_rig_final:R_Ring_01
+    400092: Both_hand_rig_final:R_Ring_02
+    400094: Both_hand_rig_final:R_Ring_03
+    400096: Both_hand_rig_final:R_Ring_04
+    400098: Both_hand_rig_final:R_Thumb_01
+    400100: Both_hand_rig_final:R_Thumb_02
+    400102: Both_hand_rig_final:R_Thumb_03
+    400104: Both_hand_rig_final:R_Thumb_04
+    400106: Bottle
+    400108: Cap
+    400110: Chemistry_Lab
+    400112: Dropper
+    400114: Dropper2
+    400116: Dropper_Solution
+    400118: Droppers
+    400120: Equipments
+    400122: Label1
+    400124: Liquid_Solution
+    400126: Sodium_extract
+    400128: //RootNode
+    400130: Testtube_01
+    400132: Testtube_02
+    400134: Testtube_Stand
+    400136: Testtube_Stand 1
+    400138: Testube_Stand
+    400140: Acetic_Acid
+    400142: Base 1
+    400144: Bottle1
+    400146: Cap 1
+    400148: Dropper1
+    400150: Lead_Acetate
+    400152: Liquid_Solution 1
+    400154: Sodium_Nitroprusside
+    2100000: Testube_Blue_Plastic_Shad
+    2100002: Testube_Shad
+    2100004: blinn3
+    2100006: Droper_cap
+    2100008: Droppers_Rubber
+    2100010: Droppers_Plastic
+    2100012: Solution1
+    2100014: blinn1
+    2100016: Label2
+    2100018: Both_hand_rig_final_Hand_Shad
+    2100020: Both_hand_rig_final_R_Hand_rig_gloves_Hand_Shad
+    2100022: blinn19
+    2300000: Base
+    2300002: Beaker_02
+    2300004: Cap
+    2300006: Dropper
+    2300008: Dropper2
+    2300010: Dropper_Solution
+    2300012: Label1
+    2300014: Liquid_Solution
+    2300016: Testtube_01
+    2300018: Testtube_02
+    2300020: Testtube_Stand
+    2300022: Testtube_Stand 1
+    2300024: Acetic_Acid
+    2300026: Base 1
+    2300028: Cap 1
+    2300030: Dropper1
+    2300032: Lead_Acetate
+    2300034: Liquid_Solution 1
+    2300036: Sodium_Nitroprusside
+    3300000: Base
+    3300002: Beaker_02
+    3300004: Cap
+    3300006: Dropper
+    3300008: Dropper2
+    3300010: Dropper_Solution
+    3300012: Label1
+    3300014: Liquid_Solution
+    3300016: Testtube_01
+    3300018: Testtube_02
+    3300020: Testtube_Stand
+    3300022: Testtube_Stand 1
+    3300024: Acetic_Acid
+    3300026: Base 1
+    3300028: Cap 1
+    3300030: Dropper1
+    3300032: Lead_Acetate
+    3300034: Liquid_Solution 1
+    3300036: Sodium_Nitroprusside
+    4300000: Testtube_Stand
+    4300002: Testtube_01
+    4300004: Beaker_02
+    4300006: Dropper
+    4300008: Dropper2
+    4300010: Dropper_Solution
+    4300012: Testtube_Stand
+    4300014: Testtube_02
+    4300016: Cap
+    4300018: Liquid_Solution
+    4300020: Base
+    4300022: Label1
+    4300024: Both_hand_rig_final:L_Hand
+    4300026: Both_hand_rig_final:R_Hand
+    4300028: Dropper1
+    4300030: Lead_Acetate
+    4300032: Sodium_Nitroprusside
+    4300034: Cap
+    4300036: Liquid_Solution
+    4300038: Base
+    4300040: Acetic_Acid
+    7400000: Take 001
+    7400002: idle
+    7400004: Pick_Lassigne
+    7400006: PourTest
+    7400008: Pick_Dropper
+    7400010: Pour_solution
+    7400012: Pick_other
+    7400014: Pour_other
+    7400016: Pour_solution_2
+    9500000: //RootNode
+    13700000: Both_hand_rig_final:L_Hand
+    13700002: Both_hand_rig_final:R_Hand
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: -50
+      lastFrame: 654
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: -50
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pick_Lassigne
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.9450727
+        functionName: NextActivity
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 6
+        messageOptions: 0
+      - time: 0.9353796
+        functionName: NextcolliderOn
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PourTest
+      takeName: Take 001
+      firstFrame: 62
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.40517908
+        functionName: Testtubefinal
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.58302474
+        functionName: Redhotfusion
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.96445876
+        functionName: NextcolliderOn
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      - time: 0.9775281
+        functionName: NextActivity
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 7
+        messageOptions: 0
+      - time: 0.24155845
+        functionName: Nextprecautions
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pick_Dropper
+      takeName: Take 001
+      firstFrame: 301
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.92084
+        functionName: NextcolliderOn
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 3
+        messageOptions: 0
+      - time: 0.96629214
+        functionName: NextActivity
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 8
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pour_solution
+      takeName: Take 001
+      firstFrame: 371
+      lastFrame: 654
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.25391853
+        functionName: FillDropper
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.625266
+        functionName: Fusioncompound_ON
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.97982705
+        functionName: FinalComplete
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pick_other
+      takeName: Take 001
+      firstFrame: 655
+      lastFrame: 710
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.94243276
+        functionName: NextActivity
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 9
+        messageOptions: 0
+      - time: 0.9699769
+        functionName: NextcolliderOn
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 5
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pour_other
+      takeName: Take 001
+      firstFrame: 711
+      lastFrame: 960
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.97982717
+        functionName: FinalComplete
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5011495
+        functionName: Fusioncompound_ON
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7948051
+        functionName: Nextprecautions
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pour_solution_2
+      takeName: Take 001
+      firstFrame: 371
+      lastFrame: 654
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.17098401
+        functionName: Nextprecautions
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      - time: 0.25866047
+        functionName: FillDropper
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6457681
+        functionName: ShowDrop2nd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.94382024
+        functionName: NextActivity
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 7
+        messageOptions: 0
+      - time: 0.9665622
+        functionName: NextcolliderOn
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 4
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

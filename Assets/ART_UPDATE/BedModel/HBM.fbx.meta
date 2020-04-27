@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: 16e988f8d6dcd4df4b4873e2562cb576
+timeCreated: 1470307392
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bed base
+    100002: bed control remote
+    100004: bed control remote body
+    100006: bed lower part
+    100008: bed lower part 2
+    100010: bed sheet1
+    100012: bed side gaurd holder
+    100014: bed side gaurd holder2
+    100016: bed side gaurd holder3
+    100018: bed side gaurd holder4
+    100020: Bedsheet
+    100022: bedsheet2
+    100024: beltHandle
+    100026: beltHandle_2
+    100028: Box003
+    100030: Box004
+    100032: Box005
+    100034: Box006
+    100036: Box007
+    100038: Box008
+    100040: Box009
+    100042: Box010
+    100044: Box012
+    100046: Box013
+    100048: Box014
+    100050: Box015
+    100052: Box016
+    100054: Box017
+    100056: Box018
+    100058: Box019
+    100060: Box020
+    100062: Box021
+    100064: Box022
+    100066: Box023
+    100068: Box024
+    100070: Box025
+    100072: Box026
+    100074: Box027
+    100076: Box028
+    100078: Box029
+    100080: Box030
+    100082: Box031
+    100084: Box032
+    100086: Box033
+    100088: Box034
+    100090: Box035
+    100092: Box036
+    100094: Box037
+    100096: Box038
+    100098: Box039
+    100100: Box040
+    100102: Box041
+    100104: Box042
+    100106: Box043
+    100108: Box044
+    100110: Box045
+    100112: Box046
+    100114: Box047
+    100116: Box048
+    100118: Box049
+    100120: ChamferCyl002
+    100122: ChamferCyl005
+    100124: ChamferCyl006
+    100126: ChamferCyl007
+    100128: Cylinder001
+    100130: Cylinder002
+    100132: Cylinder003
+    100134: Cylinder004
+    100136: Cylinder005
+    100138: Cylinder006
+    100140: Cylinder007
+    100142: Cylinder008
+    100144: Cylinder011
+    100146: Cylinder012
+    100148: Cylinder013
+    100150: Cylinder014
+    100152: Cylinder015
+    100154: Cylinder016
+    100156: Cylinder017
+    100158: Cylinder018
+    100160: Cylinder019
+    100162: Cylinder020
+    100164: Cylinder021
+    100166: Cylinder022
+    100168: Cylinder025
+    100170: Cylinder026
+    100172: Cylinder027
+    100174: Cylinder028
+    100176: Cylinder029
+    100178: Cylinder030
+    100180: Cylinder031
+    100182: Cylinder032
+    100184: Cylinder033
+    100186: Cylinder034
+    100188: Cylinder035
+    100190: Cylinder036
+    100192: Cylinder037
+    100194: Cylinder038
+    100196: Cylinder039
+    100198: Cylinder040
+    100200: Cylinder041
+    100202: Cylinder042
+    100204: Cylinder043
+    100206: Cylinder047
+    100208: Cylinder048
+    100210: Cylinder049
+    100212: Cylinder050
+    100214: Cylinder051
+    100216: Cylinder052
+    100218: Cylinder053
+    100220: Cylinder054
+    100222: Cylinder055
+    100224: Cylinder056
+    100226: Cylinder057
+    100228: Cylinder058
+    100230: cyllinder
+    100232: hand holder
+    100234: //RootNode
+    100236: iron stand
+    100238: Line003
+    100240: Line004
+    100242: Line005
+    100244: Line006
+    100246: Object004
+    100248: Object005
+    100250: Object006
+    100252: Object007
+    100254: Object008
+    100256: Object012
+    100258: Object014
+    100260: Object016
+    100262: Object017
+    100264: Object018
+    100266: Object069
+    100268: Object073
+    100270: Object074
+    100272: Object075
+    100274: Object076
+    100276: Object077
+    100278: Object078
+    100280: Object079
+    100282: Object082
+    100284: Object083
+    100286: Object084
+    100288: Object085
+    100290: Object086
+    100292: Object087
+    100294: Object088
+    100296: Object089
+    100298: Object090
+    100300: Object091
+    100302: Object092
+    100304: pillow
+    100306: pillowXtra
+    100308: plastic stand
+    100310: rack
+    100312: Rectangle001
+    100314: Rectangle002
+    100316: Rectangle003
+    100318: rod1
+    100320: rod2
+    100322: rod3
+    100324: rod4
+    100326: rod5
+    100328: rod6
+    100330: Tube002
+    100332: Tube005
+    100334: Tube006
+    100336: Tube007
+    100338: wheel upper part
+    400000: bed base
+    400002: bed control remote
+    400004: bed control remote body
+    400006: bed lower part
+    400008: bed lower part 2
+    400010: bed sheet1
+    400012: bed side gaurd holder
+    400014: bed side gaurd holder2
+    400016: bed side gaurd holder3
+    400018: bed side gaurd holder4
+    400020: Bedsheet
+    400022: bedsheet2
+    400024: beltHandle
+    400026: beltHandle_2
+    400028: Box003
+    400030: Box004
+    400032: Box005
+    400034: Box006
+    400036: Box007
+    400038: Box008
+    400040: Box009
+    400042: Box010
+    400044: Box012
+    400046: Box013
+    400048: Box014
+    400050: Box015
+    400052: Box016
+    400054: Box017
+    400056: Box018
+    400058: Box019
+    400060: Box020
+    400062: Box021
+    400064: Box022
+    400066: Box023
+    400068: Box024
+    400070: Box025
+    400072: Box026
+    400074: Box027
+    400076: Box028
+    400078: Box029
+    400080: Box030
+    400082: Box031
+    400084: Box032
+    400086: Box033
+    400088: Box034
+    400090: Box035
+    400092: Box036
+    400094: Box037
+    400096: Box038
+    400098: Box039
+    400100: Box040
+    400102: Box041
+    400104: Box042
+    400106: Box043
+    400108: Box044
+    400110: Box045
+    400112: Box046
+    400114: Box047
+    400116: Box048
+    400118: Box049
+    400120: ChamferCyl002
+    400122: ChamferCyl005
+    400124: ChamferCyl006
+    400126: ChamferCyl007
+    400128: Cylinder001
+    400130: Cylinder002
+    400132: Cylinder003
+    400134: Cylinder004
+    400136: Cylinder005
+    400138: Cylinder006
+    400140: Cylinder007
+    400142: Cylinder008
+    400144: Cylinder011
+    400146: Cylinder012
+    400148: Cylinder013
+    400150: Cylinder014
+    400152: Cylinder015
+    400154: Cylinder016
+    400156: Cylinder017
+    400158: Cylinder018
+    400160: Cylinder019
+    400162: Cylinder020
+    400164: Cylinder021
+    400166: Cylinder022
+    400168: Cylinder025
+    400170: Cylinder026
+    400172: Cylinder027
+    400174: Cylinder028
+    400176: Cylinder029
+    400178: Cylinder030
+    400180: Cylinder031
+    400182: Cylinder032
+    400184: Cylinder033
+    400186: Cylinder034
+    400188: Cylinder035
+    400190: Cylinder036
+    400192: Cylinder037
+    400194: Cylinder038
+    400196: Cylinder039
+    400198: Cylinder040
+    400200: Cylinder041
+    400202: Cylinder042
+    400204: Cylinder043
+    400206: Cylinder047
+    400208: Cylinder048
+    400210: Cylinder049
+    400212: Cylinder050
+    400214: Cylinder051
+    400216: Cylinder052
+    400218: Cylinder053
+    400220: Cylinder054
+    400222: Cylinder055
+    400224: Cylinder056
+    400226: Cylinder057
+    400228: Cylinder058
+    400230: cyllinder
+    400232: hand holder
+    400234: //RootNode
+    400236: iron stand
+    400238: Line003
+    400240: Line004
+    400242: Line005
+    400244: Line006
+    400246: Object004
+    400248: Object005
+    400250: Object006
+    400252: Object007
+    400254: Object008
+    400256: Object012
+    400258: Object014
+    400260: Object016
+    400262: Object017
+    400264: Object018
+    400266: Object069
+    400268: Object073
+    400270: Object074
+    400272: Object075
+    400274: Object076
+    400276: Object077
+    400278: Object078
+    400280: Object079
+    400282: Object082
+    400284: Object083
+    400286: Object084
+    400288: Object085
+    400290: Object086
+    400292: Object087
+    400294: Object088
+    400296: Object089
+    400298: Object090
+    400300: Object091
+    400302: Object092
+    400304: pillow
+    400306: pillowXtra
+    400308: plastic stand
+    400310: rack
+    400312: Rectangle001
+    400314: Rectangle002
+    400316: Rectangle003
+    400318: rod1
+    400320: rod2
+    400322: rod3
+    400324: rod4
+    400326: rod5
+    400328: rod6
+    400330: Tube002
+    400332: Tube005
+    400334: Tube006
+    400336: Tube007
+    400338: wheel upper part
+    2300000: bed base
+    2300002: bed control remote
+    2300004: bed control remote body
+    2300006: bed lower part
+    2300008: bed lower part 2
+    2300010: bed sheet1
+    2300012: bed side gaurd holder
+    2300014: bed side gaurd holder2
+    2300016: bed side gaurd holder3
+    2300018: bed side gaurd holder4
+    2300020: Bedsheet
+    2300022: bedsheet2
+    2300024: beltHandle
+    2300026: beltHandle_2
+    2300028: Box003
+    2300030: Box004
+    2300032: Box005
+    2300034: Box006
+    2300036: Box007
+    2300038: Box008
+    2300040: Box009
+    2300042: Box010
+    2300044: Box012
+    2300046: Box013
+    2300048: Box014
+    2300050: Box015
+    2300052: Box016
+    2300054: Box017
+    2300056: Box018
+    2300058: Box019
+    2300060: Box020
+    2300062: Box021
+    2300064: Box022
+    2300066: Box023
+    2300068: Box024
+    2300070: Box025
+    2300072: Box026
+    2300074: Box027
+    2300076: Box028
+    2300078: Box029
+    2300080: Box030
+    2300082: Box031
+    2300084: Box032
+    2300086: Box033
+    2300088: Box034
+    2300090: Box035
+    2300092: Box036
+    2300094: Box037
+    2300096: Box038
+    2300098: Box039
+    2300100: Box040
+    2300102: Box041
+    2300104: Box042
+    2300106: Box043
+    2300108: Box044
+    2300110: Box045
+    2300112: Box046
+    2300114: Box047
+    2300116: Box048
+    2300118: Box049
+    2300120: ChamferCyl002
+    2300122: ChamferCyl005
+    2300124: ChamferCyl006
+    2300126: ChamferCyl007
+    2300128: Cylinder001
+    2300130: Cylinder002
+    2300132: Cylinder003
+    2300134: Cylinder004
+    2300136: Cylinder005
+    2300138: Cylinder006
+    2300140: Cylinder007
+    2300142: Cylinder008
+    2300144: Cylinder011
+    2300146: Cylinder012
+    2300148: Cylinder013
+    2300150: Cylinder014
+    2300152: Cylinder015
+    2300154: Cylinder016
+    2300156: Cylinder017
+    2300158: Cylinder018
+    2300160: Cylinder019
+    2300162: Cylinder020
+    2300164: Cylinder021
+    2300166: Cylinder022
+    2300168: Cylinder025
+    2300170: Cylinder026
+    2300172: Cylinder027
+    2300174: Cylinder028
+    2300176: Cylinder029
+    2300178: Cylinder030
+    2300180: Cylinder031
+    2300182: Cylinder032
+    2300184: Cylinder033
+    2300186: Cylinder034
+    2300188: Cylinder035
+    2300190: Cylinder036
+    2300192: Cylinder037
+    2300194: Cylinder038
+    2300196: Cylinder039
+    2300198: Cylinder040
+    2300200: Cylinder041
+    2300202: Cylinder042
+    2300204: Cylinder043
+    2300206: Cylinder047
+    2300208: Cylinder048
+    2300210: Cylinder049
+    2300212: Cylinder050
+    2300214: Cylinder051
+    2300216: Cylinder052
+    2300218: Cylinder053
+    2300220: Cylinder054
+    2300222: Cylinder055
+    2300224: Cylinder056
+    2300226: Cylinder057
+    2300228: Cylinder058
+    2300230: cyllinder
+    2300232: hand holder
+    2300234: iron stand
+    2300236: Line003
+    2300238: Line004
+    2300240: Line005
+    2300242: Line006
+    2300244: Object004
+    2300246: Object005
+    2300248: Object006
+    2300250: Object007
+    2300252: Object008
+    2300254: Object012
+    2300256: Object014
+    2300258: Object016
+    2300260: Object017
+    2300262: Object018
+    2300264: Object069
+    2300266: Object073
+    2300268: Object074
+    2300270: Object075
+    2300272: Object076
+    2300274: Object077
+    2300276: Object078
+    2300278: Object079
+    2300280: Object082
+    2300282: Object083
+    2300284: Object084
+    2300286: Object085
+    2300288: Object086
+    2300290: Object087
+    2300292: Object088
+    2300294: Object089
+    2300296: Object090
+    2300298: Object091
+    2300300: Object092
+    2300302: pillow
+    2300304: pillowXtra
+    2300306: plastic stand
+    2300308: Rectangle001
+    2300310: Rectangle002
+    2300312: Rectangle003
+    2300314: rod1
+    2300316: rod2
+    2300318: rod3
+    2300320: rod4
+    2300322: rod5
+    2300324: rod6
+    2300326: Tube002
+    2300328: Tube005
+    2300330: Tube006
+    2300332: Tube007
+    2300334: wheel upper part
+    3300000: bed base
+    3300002: bed control remote
+    3300004: bed control remote body
+    3300006: bed lower part
+    3300008: bed lower part 2
+    3300010: bed sheet1
+    3300012: bed side gaurd holder
+    3300014: bed side gaurd holder2
+    3300016: bed side gaurd holder3
+    3300018: bed side gaurd holder4
+    3300020: Bedsheet
+    3300022: bedsheet2
+    3300024: beltHandle
+    3300026: beltHandle_2
+    3300028: Box003
+    3300030: Box004
+    3300032: Box005
+    3300034: Box006
+    3300036: Box007
+    3300038: Box008
+    3300040: Box009
+    3300042: Box010
+    3300044: Box012
+    3300046: Box013
+    3300048: Box014
+    3300050: Box015
+    3300052: Box016
+    3300054: Box017
+    3300056: Box018
+    3300058: Box019
+    3300060: Box020
+    3300062: Box021
+    3300064: Box022
+    3300066: Box023
+    3300068: Box024
+    3300070: Box025
+    3300072: Box026
+    3300074: Box027
+    3300076: Box028
+    3300078: Box029
+    3300080: Box030
+    3300082: Box031
+    3300084: Box032
+    3300086: Box033
+    3300088: Box034
+    3300090: Box035
+    3300092: Box036
+    3300094: Box037
+    3300096: Box038
+    3300098: Box039
+    3300100: Box040
+    3300102: Box041
+    3300104: Box042
+    3300106: Box043
+    3300108: Box044
+    3300110: Box045
+    3300112: Box046
+    3300114: Box047
+    3300116: Box048
+    3300118: Box049
+    3300120: ChamferCyl002
+    3300122: ChamferCyl005
+    3300124: ChamferCyl006
+    3300126: ChamferCyl007
+    3300128: Cylinder001
+    3300130: Cylinder002
+    3300132: Cylinder003
+    3300134: Cylinder004
+    3300136: Cylinder005
+    3300138: Cylinder006
+    3300140: Cylinder007
+    3300142: Cylinder008
+    3300144: Cylinder011
+    3300146: Cylinder012
+    3300148: Cylinder013
+    3300150: Cylinder014
+    3300152: Cylinder015
+    3300154: Cylinder016
+    3300156: Cylinder017
+    3300158: Cylinder018
+    3300160: Cylinder019
+    3300162: Cylinder020
+    3300164: Cylinder021
+    3300166: Cylinder022
+    3300168: Cylinder025
+    3300170: Cylinder026
+    3300172: Cylinder027
+    3300174: Cylinder028
+    3300176: Cylinder029
+    3300178: Cylinder030
+    3300180: Cylinder031
+    3300182: Cylinder032
+    3300184: Cylinder033
+    3300186: Cylinder034
+    3300188: Cylinder035
+    3300190: Cylinder036
+    3300192: Cylinder037
+    3300194: Cylinder038
+    3300196: Cylinder039
+    3300198: Cylinder040
+    3300200: Cylinder041
+    3300202: Cylinder042
+    3300204: Cylinder043
+    3300206: Cylinder047
+    3300208: Cylinder048
+    3300210: Cylinder049
+    3300212: Cylinder050
+    3300214: Cylinder051
+    3300216: Cylinder052
+    3300218: Cylinder053
+    3300220: Cylinder054
+    3300222: Cylinder055
+    3300224: Cylinder056
+    3300226: Cylinder057
+    3300228: Cylinder058
+    3300230: cyllinder
+    3300232: hand holder
+    3300234: iron stand
+    3300236: Line003
+    3300238: Line004
+    3300240: Line005
+    3300242: Line006
+    3300244: Object004
+    3300246: Object005
+    3300248: Object006
+    3300250: Object007
+    3300252: Object008
+    3300254: Object012
+    3300256: Object014
+    3300258: Object016
+    3300260: Object017
+    3300262: Object018
+    3300264: Object069
+    3300266: Object073
+    3300268: Object074
+    3300270: Object075
+    3300272: Object076
+    3300274: Object077
+    3300276: Object078
+    3300278: Object079
+    3300280: Object082
+    3300282: Object083
+    3300284: Object084
+    3300286: Object085
+    3300288: Object086
+    3300290: Object087
+    3300292: Object088
+    3300294: Object089
+    3300296: Object090
+    3300298: Object091
+    3300300: Object092
+    3300302: pillow
+    3300304: pillowXtra
+    3300306: plastic stand
+    3300308: Rectangle001
+    3300310: Rectangle002
+    3300312: Rectangle003
+    3300314: rod1
+    3300316: rod2
+    3300318: rod3
+    3300320: rod4
+    3300322: rod5
+    3300324: rod6
+    3300326: Tube002
+    3300328: Tube005
+    3300330: Tube006
+    3300332: Tube007
+    3300334: wheel upper part
+    4300000: bed control remote
+    4300002: bed control remote body
+    4300004: Object092
+    4300006: Object091
+    4300008: Object090
+    4300010: Object089
+    4300012: Object088
+    4300014: Object087
+    4300016: Object086
+    4300018: Object085
+    4300020: Object084
+    4300022: pillow
+    4300024: bedsheet2
+    4300026: Cylinder058
+    4300028: Cylinder057
+    4300030: Box049
+    4300032: Cylinder056
+    4300034: Cylinder055
+    4300036: Cylinder054
+    4300038: Box048
+    4300040: Cylinder053
+    4300042: Cylinder052
+    4300044: Cylinder051
+    4300046: Box047
+    4300048: Cylinder050
+    4300050: Cylinder049
+    4300052: Cylinder048
+    4300054: Cylinder047
+    4300056: Box046
+    4300058: Line004
+    4300060: Line003
+    4300062: iron stand
+    4300064: hand holder
+    4300066: plastic stand
+    4300068: Cylinder043
+    4300070: Cylinder042
+    4300072: Cylinder041
+    4300074: Cylinder040
+    4300076: Cylinder039
+    4300078: Tube007
+    4300080: Cylinder038
+    4300082: Tube006
+    4300084: ChamferCyl007
+    4300086: Object079
+    4300088: Object078
+    4300090: Object077
+    4300092: Object076
+    4300094: ChamferCyl006
+    4300096: Cylinder037
+    4300098: Tube005
+    4300100: Object075
+    4300102: Object074
+    4300104: ChamferCyl005
+    4300106: Object073
+    4300108: Object069
+    4300110: Tube002
+    4300112: ChamferCyl002
+    4300114: Cylinder036
+    4300116: Cylinder035
+    4300118: Box045
+    4300120: Cylinder034
+    4300122: Box044
+    4300124: Cylinder033
+    4300126: Box043
+    4300128: Cylinder032
+    4300130: Cylinder031
+    4300132: Box042
+    4300134: Box041
+    4300136: Box040
+    4300138: Box039
+    4300140: Box038
+    4300142: Cylinder030
+    4300144: Box037
+    4300146: Cylinder029
+    4300148: Box036
+    4300150: Cylinder028
+    4300152: Box035
+    4300154: Cylinder027
+    4300156: Box034
+    4300158: Cylinder026
+    4300160: Box033
+    4300162: Cylinder025
+    4300164: Box032
+    4300166: Cylinder017
+    4300168: Box022
+    4300170: Cylinder018
+    4300172: Box023
+    4300174: Cylinder022
+    4300176: Box021
+    4300178: Cylinder019
+    4300180: Cylinder021
+    4300182: Box024
+    4300184: Box025
+    4300186: Box019
+    4300188: bed lower part 2
+    4300190: Box020
+    4300192: Box015
+    4300194: Cylinder012
+    4300196: Box012
+    4300198: Cylinder011
+    4300200: Box013
+    4300202: Cylinder013
+    4300204: Box014
+    4300206: bed lower part
+    4300208: Cylinder016
+    4300210: Box016
+    4300212: Cylinder014
+    4300214: Box017
+    4300216: Cylinder015
+    4300218: Box018
+    4300220: Object018
+    4300222: Box031
+    4300224: Object017
+    4300226: Object016
+    4300228: Box030
+    4300230: bed side gaurd holder2
+    4300232: rod1
+    4300234: Object014
+    4300236: Box029
+    4300238: Box028
+    4300240: Box027
+    4300242: Box026
+    4300244: bed side gaurd holder
+    4300246: rod2
+    4300248: Object012
+    4300250: rod3
+    4300252: Cylinder020
+    4300254: wheel upper part
+    4300256: bed side gaurd holder3
+    4300258: Box010
+    4300260: Object008
+    4300262: Object007
+    4300264: Box009
+    4300266: Box008
+    4300268: Object006
+    4300270: Object005
+    4300272: Object004
+    4300274: Box007
+    4300276: rod6
+    4300278: rod5
+    4300280: rod4
+    4300282: Box006
+    4300284: Box005
+    4300286: bed side gaurd holder4
+    4300288: Cylinder008
+    4300290: Cylinder007
+    4300292: Cylinder006
+    4300294: Cylinder005
+    4300296: Cylinder004
+    4300298: Cylinder003
+    4300300: Box004
+    4300302: Cylinder002
+    4300304: Cylinder001
+    4300306: Box003
+    4300308: bed sheet1
+    4300310: bed base
+    4300312: Line005
+    4300314: Rectangle001
+    4300316: Object083
+    4300318: Object082
+    4300320: Rectangle002
+    4300322: Rectangle003
+    4300324: Line006
+    4300326: beltHandle
+    4300328: cyllinder
+    4300330: beltHandle_2
+    4300332: pillowXtra
+    4300334: Bedsheet
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
